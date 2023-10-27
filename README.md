@@ -2,7 +2,8 @@
 
 # Implementation of Neobis tasks
 
-![ST-java1_1x (3)_3](https://github.com/Akmatovedil/neobis_/assets/106029627/d130fba6-1f62-430b-9035-4ec30cfa3c69)
+![ST-java1_1x (3)_3](https://github.com/Akmatovedil/Neobis/assets/106029627/0a02660a-22bb-4d14-962d-7672fce30d19)
+
 ***
 ### Study plan:
 
